@@ -53,6 +53,10 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" red="0.82068938016891479" green="0.89452415704727173" blue="0.95228594541549683" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
+                    <connections>
+                        <outlet property="campoIdadeCachorro" destination="ci6-Wn-KWd" id="oPs-Us-gsw"/>
+                        <outlet property="legendaResultado" destination="Sfj-jF-NKX" id="RWe-vM-812"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
